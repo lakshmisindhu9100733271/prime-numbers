@@ -1,0 +1,24 @@
+{
+  "name": "prime-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshmisindhu9100733271/prime-numbers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshmisindhu9100733271/prime-numbers/issues"
+  },
+  "homepage": "https://github.com/lakshmisindhu9100733271/prime-numbers#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^2.2.0"
+  }
+}
